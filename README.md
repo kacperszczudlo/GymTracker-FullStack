@@ -15,7 +15,6 @@ Aplikacja do śledzenia treningów siłowych: **Android (Java)** + **Spring Boot
 - [Szybki start](#szybki-start)
 - [Konfiguracja](#konfiguracja)
 - [Dokumentacja modułów](#dokumentacja-modułów)
-- [Roadmap / TODO](#roadmap--todo)
 - [Autor](#autor)
 
 ## Opis
@@ -48,11 +47,6 @@ To repozytorium jest **monorepo** i składa się z dwóch modułów:
 ## Dokumentacja modułów
 - Frontend: `frontend/README.md`
 - Backend: `backend/README.md`
-
-## Roadmap / TODO
-- [ ] Rozbudowa dokumentacji (README w `frontend/` i `backend/`)
-- [ ] Docker Compose dla backend + DB (opcjonalnie)
-- [ ] Zrzuty ekranu / GIFy z aplikacji
 
 ## Autor
 Kacper Szczudło
