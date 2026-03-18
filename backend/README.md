@@ -1,4 +1,3 @@
-![Android](https://img.shields.io/badge/Frontend-Android_Java-3DDC84?style=flat-square&logo=android)
 ![Spring Boot](https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?style=flat-square&logo=springboot)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Security](https://img.shields.io/badge/Security-JWT-000000?style=flat-square&logo=jsonwebtokens)
